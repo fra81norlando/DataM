@@ -72,9 +72,5 @@ public class JSONWriter {
         output.close();
              
     }
-        
-        
-        
-        
     
 }
