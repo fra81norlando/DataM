@@ -51,4 +51,10 @@ public class Libro {
     {
         return this.prezzo;
     }
+    
+    public String toString(){
+        return "Libro: \n" + " titolo: " + this.getTitolo() + "\n autore: " 
+                + this.getAutore() + "\n genere: " + this.getGenere() +
+                "\n prezzo: " + this.getPrezzo() + "euro";
+    }
 }
