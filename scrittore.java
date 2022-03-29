@@ -16,7 +16,7 @@ import javax.json.JsonWriter;
 
 /**
  *
- * @author MC
+ * @author fra81n
  */
 public class scrittore {
     
